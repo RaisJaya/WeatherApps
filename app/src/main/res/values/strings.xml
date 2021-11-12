@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApps</string>
+
+    <string name="failur_connect">Can not reach the server</string>
+</resources>
